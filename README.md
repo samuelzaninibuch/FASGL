@@ -1,6 +1,6 @@
 # SGL
 SGL (Simple Gui Libary) with is maded in glad and opengl
-**its main focus is to be simple, with includes events, widgets, and 'boxes'**
+**its main focus is to be simple, with includes events, widgets, and 'boxes' (or if you want call it, containers)**
 **boxes is like semi/distant part of the main window**, like on a painting software you have the main scene, the tools and the menus
 it may allow transisions, to anything complex like painting software, this is for you
 
