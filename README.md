@@ -7,7 +7,6 @@ it still on development so don't use it for real projects
 2. hide elements
 3. images
 4. text
-5. colors
-6. keyboard events
+5. keyboard events
 and so much more
 Licensed under GPL 3.0 license
